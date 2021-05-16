@@ -1,6 +1,8 @@
 Jabberwocky
 by Lewis Carroll
 
+Change to demonstrate branching using git checkout -b demonstrate-branching
+
 ’Twas brillig, and the slithy toves 
       Did gyre and gimble in the wabe: 
 All mimsy were the borogoves, 
